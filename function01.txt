@@ -1,0 +1,5 @@
+#!usr/bin/env bash
+prog () {
+    STRING="Hello, world!"
+    echo $STRING
+}
