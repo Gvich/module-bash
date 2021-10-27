@@ -1,0 +1,6 @@
+#!usr/bin/bash
+
+sayhello () {
+	STRING="Hello, world!"
+	echo $STRING
+}
